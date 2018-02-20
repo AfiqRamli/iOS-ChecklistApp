@@ -14,6 +14,7 @@
 		CA005070203424A8000B62D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA00506E203424A8000B62D3 /* LaunchScreen.storyboard */; };
 		CA2F7F0820352302004D17DB /* ChecklistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA2F7F0720352302004D17DB /* ChecklistItem.swift */; };
 		CA2F7F0C2035759B004D17DB /* ItemDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA2F7F0B2035759B004D17DB /* ItemDetailVC.swift */; };
+		CAC2A829203C310F00CD1A0C /* AllListsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAC2A828203C310F00CD1A0C /* AllListsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CA005071203424A8000B62D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CA2F7F0720352302004D17DB /* ChecklistItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistItem.swift; sourceTree = "<group>"; };
 		CA2F7F0B2035759B004D17DB /* ItemDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetailVC.swift; sourceTree = "<group>"; };
+		CAC2A828203C310F00CD1A0C /* AllListsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllListsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				CA005065203424A8000B62D3 /* AppDelegate.swift */,
 				CA005067203424A8000B62D3 /* ChecklistVC.swift */,
+				CAC2A828203C310F00CD1A0C /* AllListsVC.swift */,
 				CA2F7F0720352302004D17DB /* ChecklistItem.swift */,
 				CA2F7F0B2035759B004D17DB /* ItemDetailVC.swift */,
 				CA005069203424A8000B62D3 /* Main.storyboard */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA005068203424A8000B62D3 /* ChecklistVC.swift in Sources */,
+				CAC2A829203C310F00CD1A0C /* AllListsVC.swift in Sources */,
 				CA2F7F0820352302004D17DB /* ChecklistItem.swift in Sources */,
 				CA005066203424A8000B62D3 /* AppDelegate.swift in Sources */,
 				CA2F7F0C2035759B004D17DB /* ItemDetailVC.swift in Sources */,
